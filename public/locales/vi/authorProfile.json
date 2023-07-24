@@ -1,0 +1,20 @@
+{
+  "titlePage": "Hồ sơ tác giả - NFT Bookstore",
+  "titleContent1": "Hồ sơ tác giả",
+  "titlePhoto": "Ảnh tác giả",
+  "titleInfo": "Thông tin tác giả",
+  "titleSocial": "Liên kết mạng xã hội",
+  "required": "Bắt buộc",
+  "pseudonym": "Bút danh",
+  "about": "Về tác giả",
+  "email": "Email",
+  "phoneNumber": "Số điện thoại",
+  "website": "Website",
+  "walletAddress": "Địa chỉ ví",
+  "socialMedia": "Mạng xã hội",
+  "authorBook": "Sách của tác giả",
+  "noInformationYet": "Chưa có thông tin",
+  "emptyMessage": "Tác giả chưa sở hữu quyển sách nào!",
+  "loadingMessage": "Đang đặt sách lên kệ...",
+  "errorProfileInvalid": "Hồ sơ địa chỉ ví của tác giả không hợp lệ."
+}
